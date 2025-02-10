@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+jupyterlab
+
+
+# Usar o pip freeze > requirements.txt para gerar o arquivo atualizado
